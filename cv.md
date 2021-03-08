@@ -1,10 +1,10 @@
 # Veronika Kuznetsova
 
 ## My contacts:
-+Phone: +375 (29) 643-97-57
-+Email: veronichka.kuznetsova.1997@gmail.com
-+Github: veronikuznetsova
-+Telegram: https://t.me/vkuznetsovaa
+*Phone: +375 (29) 643-97-57
+*Email: veronichka.kuznetsova.1997@gmail.com
+*Github: veronikuznetsova
+*Telegram: https://t.me/vkuznetsovaa
 
 ## About me:
 > Studied HTML, CSS, JAVA and JAVA Script on my own. 
@@ -18,11 +18,11 @@
 #### Sample code:
 
 ##### Experience:
-+Training JavaScript Development from EPAM Training Center
+*Training JavaScript Development from EPAM Training Center
 
 ###### Education:
-/ Studied HTML, CSS, JAVA and JAVA Script on my own. 
-/ Training JavaScript Development from EPAM Training Center
+1. Studied HTML, CSS, JAVA and JAVA Script on my own. 
+1. Training JavaScript Development from EPAM Training Center
 
 ###### Languages:
 *I speak English at B2 level and Polish at A1.*
