@@ -4,7 +4,7 @@
 * Phone: +375 (29) 643-97-57
 * Email: veronichka.kuznetsova.1997@gmail.com
 * Github: veronikuznetsova
-* Telegram: https://t.me/vkuznetsovaa
+* Telegram: [Это ссылка на телеграм] (https://t.me/vkuznetsovaa) 
 
 ## About me:
 > Studied HTML, CSS, JAVA and JAVA Script on my own. 
