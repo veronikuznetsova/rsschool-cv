@@ -1,4 +1,4 @@
-# Veronika Kuznetsova
+# **Veronika Kuznetsova**
 
 ## My contacts:
 * Phone: +375 (29) 643-97-57
