@@ -5,28 +5,86 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
  <title>My CV</title>
  <style>
- 	div{
+ 	header{
+ 		width: 100%;
+    max-width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+    padding: 30px 0;
+ 	}
+ 	.user {
+    display: flex;
+    }
+.user__avatar {
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden; 
+    border-radius: 50%
+}
+.user__content {
+   padding-left: 9px; 
+}
+.user__name {
+    margin-bottom: 3px;
+    font-size: 16px;
+    line-height: 18px;
+    color: black;
+    font-weight: 700;
+}
+.user__prof {
+    font-size: 12px;
+    color: black;
+}
+ 	h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    }
+ 	.all{
  		text-align: center;
+ 	}
+ 	footer{
+ 		text-align: center;
+ 		background-color: gray;
  	}
  </style>
 </head>
 <body>
 
+
+<!-- Header -->
+   <header class='header'>
+    
+       <div class='user'>
+        <div class='user__avatar'> 
+        <img src='iam.jfif' width='57' height='57' alt='I am'>   
+        </div>
+        <div class='user__content'>
+            <div class='user__name'>
+             Veronika<br>Kuznetsova
+            </div>
+            <div class='user__prof'>Full Stack Developer</div>
+       </div>
+   </div>
+   </header>
+
 <div class='all'>
-<h1> Veronika Kuznetsova </h1>
-<img src="iam.jfif" alt="My photo" width="150px" height="150px"></>
+<main>
 
 <h2> My contacts: </h2>
+<ul>
 <li> Phone: +375 (29) 643-97-57 </li>
 <li> Email: veronichka.kuznetsova.1997@gmail.com </li>
 <li> Github: veronikuznetsova </li>
-<li> Telegram: https://t.me/vkuznetsovaa</li>
+<li> Telegram: https://t.me/vkuznetsovaa</li> </ul>
 
+<article>
 <h2> About me: </h2>
 <blockquote> <p> Studied HTML, CSS, JAVA and JAVA Script on my own. </p>
 <p>I speak English at B2 level and Polish at A1. I love honest and kind people. I have 2 years of experience in the position of " International Logistics Manager". Where I draw the conclusion that there are definitely no hopeless situations!)) And the main thing is to solve all the emerging issues in a peaceful and intelligent way. </p>
 <p> I love to travel and dream of a big dog and a small kitten. I want to become a tough female Full Stack Developer. </p>
 <p> I'm sure that each person is interesting in their own way and can bring some special benefit to our world.</p></blockquote>
+</article>
 
 <h3> Skills: </h3>
 <b> Studied HTML, CSS, JAVA and JAVA Script on my own.</b>
@@ -34,7 +92,8 @@
 <h4> Sample code: </h4>
 
 <h5> Experience: </h5>
-<li> Training JavaScript Development from EPAM Training Center. </li>
+<ul>
+<li> Training JavaScript Development from EPAM Training Center. </li> </ul>
 
 <h6> Education: </h6>
 <ol>
@@ -44,7 +103,14 @@
 
 <h6> Languages: </h6>
 <b>I speak English at B2 level and Polish at A1.</b>
+</main>
 </div>
+
+<footer>
+	<p><a href="https://github.com/veronikuznetsova">My GITHUB</a></p>
+	<p><a href="https://rs.school/js/"><img src="rs_school_js.svg" width="50" 
+   height="50" alt="rs.school"></a></p>
+</footer>
 
 </body>
 </html>
